@@ -1,2 +1,9 @@
-# learning-java
+# learning Java
+
 Here are my study notes/code for learning java
+
+//TODO
+
+- What is here...
+- What problem...
+- What's next...
